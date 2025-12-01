@@ -1,0 +1,13 @@
+# object files, binaries
+*.o
+*.out
+*.exe
+*.bin
+# editor files
+*.swp
+.vscode/
+.idea/
+__pycache__/
+# build folders
+/build/
+/dist/
