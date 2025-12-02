@@ -811,8 +811,9 @@ extern int __overflow (FILE *, int);
 
 # 2 "code/hello.c" 2
 
-# 2 "code/hello.c"
+
+# 3 "code/hello.c"
 int main() {
-    printf("Hello, OS Execution Mapping\\n");
+    printf("Hello, compiler pipeline!\n");
     return 0;
 }
