@@ -1,0 +1,199 @@
+{
+  "main": {
+    "id": "fd6cf17221e1ca2b",
+    "type": "split",
+    "children": [
+      {
+        "id": "b12defe06af58ec5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "661cf5e9873b2c71",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/week2/day2_notes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "day2_notes"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "25e7f427d3f55da4",
+    "type": "split",
+    "children": [
+      {
+        "id": "2c5997ffbded12d6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "03b4691d8ce6f554",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "82d24d801675bcd1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "01fe1b983717c184",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "bfcd2bb0265fd0dc",
+    "type": "split",
+    "children": [
+      {
+        "id": "b159c4c6d5aad4bf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8fa87f010d0a8d57",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "notes/week2/day2_notes.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for day2_notes"
+            }
+          },
+          {
+            "id": "c1a69d8869af3411",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "notes/week2/day2_notes.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from day2_notes"
+            }
+          },
+          {
+            "id": "4d9b653528599c2b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "57ebfdebe629545d",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "d841363460448e98",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "notes/week2/day2_notes.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of day2_notes"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "661cf5e9873b2c71",
+  "lastOpenFiles": [
+    "diagrams/week2/day2.png",
+    "docs/weekly/week2/day2.md",
+    "sleeper.bin",
+    "experiments/memory-mapping/proc-maps/sleeper_proc_maps.txt",
+    "src/sleeper.c",
+    "experiments/memory-mapping/proc-maps/bash_proc_maps.txt",
+    "experiments/memory-mapping/proc-maps/cat_proc_maps.txt",
+    "experiments/memory-mapping/proc-maps/hello_proc_maps.txt",
+    "notes/week2/day1_notes.md",
+    "notes/week2/day2_notes.md"
+  ]
+}

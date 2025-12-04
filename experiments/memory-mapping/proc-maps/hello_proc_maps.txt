@@ -1,0 +1,22 @@
+61dc4465c000-61dc4465d000 r--p 00000000 00:43 13229323905586453          /mnt/c/Users/mtech121/Desktop/os-execution-mapping-research/hello.bin
+61dc4465d000-61dc4465e000 r-xp 00001000 00:43 13229323905586453          /mnt/c/Users/mtech121/Desktop/os-execution-mapping-research/hello.bin
+61dc4465e000-61dc4465f000 r--p 00002000 00:43 13229323905586453          /mnt/c/Users/mtech121/Desktop/os-execution-mapping-research/hello.bin
+61dc4465f000-61dc44660000 r--p 00002000 00:43 13229323905586453          /mnt/c/Users/mtech121/Desktop/os-execution-mapping-research/hello.bin
+61dc44660000-61dc44661000 rw-p 00003000 00:43 13229323905586453          /mnt/c/Users/mtech121/Desktop/os-execution-mapping-research/hello.bin
+61dc45b4a000-61dc45b6b000 rw-p 00000000 00:00 0                          [heap]
+7c6097c00000-7c6097c28000 r--p 00000000 08:30 39744                      /usr/lib/x86_64-linux-gnu/libc.so.6
+7c6097c28000-7c6097db0000 r-xp 00028000 08:30 39744                      /usr/lib/x86_64-linux-gnu/libc.so.6
+7c6097db0000-7c6097dff000 r--p 001b0000 08:30 39744                      /usr/lib/x86_64-linux-gnu/libc.so.6
+7c6097dff000-7c6097e03000 r--p 001fe000 08:30 39744                      /usr/lib/x86_64-linux-gnu/libc.so.6
+7c6097e03000-7c6097e05000 rw-p 00202000 08:30 39744                      /usr/lib/x86_64-linux-gnu/libc.so.6
+7c6097e05000-7c6097e12000 rw-p 00000000 00:00 0 
+7c6097f3e000-7c6097f41000 rw-p 00000000 00:00 0 
+7c6097f48000-7c6097f4a000 rw-p 00000000 00:00 0 
+7c6097f4a000-7c6097f4b000 r--p 00000000 08:30 39741                      /usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2
+7c6097f4b000-7c6097f76000 r-xp 00001000 08:30 39741                      /usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2
+7c6097f76000-7c6097f80000 r--p 0002c000 08:30 39741                      /usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2
+7c6097f80000-7c6097f82000 r--p 00036000 08:30 39741                      /usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2
+7c6097f82000-7c6097f84000 rw-p 00038000 08:30 39741                      /usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2
+7ffc35db1000-7ffc35dd3000 rw-p 00000000 00:00 0                          [stack]
+7ffc35dd9000-7ffc35ddd000 r--p 00000000 00:00 0                          [vvar]
+7ffc35ddd000-7ffc35ddf000 r-xp 00000000 00:00 0                          [vdso]
