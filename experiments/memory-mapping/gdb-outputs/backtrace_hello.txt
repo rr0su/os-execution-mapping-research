@@ -1,0 +1,4 @@
+#0  0x00007ffff7ceca7a in __GI___clock_nanosleep (clock_id=clock_id@entry=0, flags=flags@entry=0, req=req@entry=0x7fffffffd570, rem=rem@entry=0x7fffffffd570) at ../sysdeps/unix/sysv/linux/clock_nanosleep.c:78
+#1  0x00007ffff7cf9a27 in __GI___nanosleep (req=req@entry=0x7fffffffd570, rem=rem@entry=0x7fffffffd570) at ../sysdeps/unix/sysv/linux/nanosleep.c:25
+#2  0x00007ffff7d0ec93 in __sleep (seconds=0) at ../sysdeps/posix/sleep.c:55
+#3  0x000055555555518a in main ()

@@ -1,0 +1,98 @@
+Symbols from "/mnt/c/Users/mtech121/Desktop/os-execution-mapping-research/hello.bin".
+Native process:
+	Using the running image of child process 1303.
+	While running this, GDB does not access memory from...
+Local exec file:
+	`/mnt/c/Users/mtech121/Desktop/os-execution-mapping-research/hello.bin', file type elf64-x86-64.
+	Entry point: 0x555555555080
+	0x0000555555554318 - 0x0000555555554334 is .interp
+	0x0000555555554338 - 0x0000555555554368 is .note.gnu.property
+	0x0000555555554368 - 0x000055555555438c is .note.gnu.build-id
+	0x000055555555438c - 0x00005555555543ac is .note.ABI-tag
+	0x00005555555543b0 - 0x00005555555543d4 is .gnu.hash
+	0x00005555555543d8 - 0x0000555555554498 is .dynsym
+	0x0000555555554498 - 0x000055555555452b is .dynstr
+	0x000055555555452c - 0x000055555555453c is .gnu.version
+	0x0000555555554540 - 0x0000555555554570 is .gnu.version_r
+	0x0000555555554570 - 0x0000555555554630 is .rela.dyn
+	0x0000555555554630 - 0x0000555555554660 is .rela.plt
+	0x0000555555555000 - 0x000055555555501b is .init
+	0x0000555555555020 - 0x0000555555555050 is .plt
+	0x0000555555555050 - 0x0000555555555060 is .plt.got
+	0x0000555555555060 - 0x0000555555555080 is .plt.sec
+	0x0000555555555080 - 0x0000555555555191 is .text
+	0x0000555555555194 - 0x00005555555551a1 is .fini
+	0x0000555555556000 - 0x000055555555602a is .rodata
+	0x000055555555602c - 0x0000555555556060 is .eh_frame_hdr
+	0x0000555555556060 - 0x000055555555610c is .eh_frame
+	0x0000555555557db0 - 0x0000555555557db8 is .init_array
+	0x0000555555557db8 - 0x0000555555557dc0 is .fini_array
+	0x0000555555557dc0 - 0x0000555555557fb0 is .dynamic
+	0x0000555555557fb0 - 0x0000555555558000 is .got
+	0x0000555555558000 - 0x0000555555558010 is .data
+	0x0000555555558010 - 0x0000555555558018 is .bss
+	0x00007ffff7fc52a8 - 0x00007ffff7fc52c8 is .note.gnu.property in /lib64/ld-linux-x86-64.so.2
+	0x00007ffff7fc52c8 - 0x00007ffff7fc52ec is .note.gnu.build-id in /lib64/ld-linux-x86-64.so.2
+	0x00007ffff7fc52f0 - 0x00007ffff7fc542c is .hash in /lib64/ld-linux-x86-64.so.2
+	0x00007ffff7fc5430 - 0x00007ffff7fc5590 is .gnu.hash in /lib64/ld-linux-x86-64.so.2
+	0x00007ffff7fc5590 - 0x00007ffff7fc5950 is .dynsym in /lib64/ld-linux-x86-64.so.2
+	0x00007ffff7fc5950 - 0x00007ffff7fc5c1a is .dynstr in /lib64/ld-linux-x86-64.so.2
+	0x00007ffff7fc5c1a - 0x00007ffff7fc5c6a is .gnu.version in /lib64/ld-linux-x86-64.so.2
+	0x00007ffff7fc5c70 - 0x00007ffff7fc5d5c is .gnu.version_d in /lib64/ld-linux-x86-64.so.2
+	0x00007ffff7fc5d60 - 0x00007ffff7fc5da8 is .rela.dyn in /lib64/ld-linux-x86-64.so.2
+	0x00007ffff7fc5da8 - 0x00007ffff7fc5dc0 is .relr.dyn in /lib64/ld-linux-x86-64.so.2
+	0x00007ffff7fc6000 - 0x00007ffff7ff0195 is .text in /lib64/ld-linux-x86-64.so.2
+	0x00007ffff7ff1000 - 0x00007ffff7ff74b0 is .rodata in /lib64/ld-linux-x86-64.so.2
+	0x00007ffff7ff74b0 - 0x00007ffff7ff74b1 is .stapsdt.base in /lib64/ld-linux-x86-64.so.2
+	0x00007ffff7ff74b4 - 0x00007ffff7ff7df0 is .eh_frame_hdr in /lib64/ld-linux-x86-64.so.2
+	0x00007ffff7ff7df0 - 0x00007ffff7ffa8dc is .eh_frame in /lib64/ld-linux-x86-64.so.2
+	0x00007ffff7ffb360 - 0x00007ffff7ffce58 is .data.rel.ro in /lib64/ld-linux-x86-64.so.2
+	0x00007ffff7ffce58 - 0x00007ffff7ffcfd8 is .dynamic in /lib64/ld-linux-x86-64.so.2
+	0x00007ffff7ffcfd8 - 0x00007ffff7ffd000 is .got in /lib64/ld-linux-x86-64.so.2
+	0x00007ffff7ffd000 - 0x00007ffff7ffe104 is .data in /lib64/ld-linux-x86-64.so.2
+	0x00007ffff7ffe110 - 0x00007ffff7ffe2d8 is .bss in /lib64/ld-linux-x86-64.so.2
+	0x00007ffff7fc3120 - 0x00007ffff7fc3168 is .hash in system-supplied DSO at 0x7ffff7fc3000
+	0x00007ffff7fc3168 - 0x00007ffff7fc31c4 is .gnu.hash in system-supplied DSO at 0x7ffff7fc3000
+	0x00007ffff7fc31c8 - 0x00007ffff7fc3300 is .dynsym in system-supplied DSO at 0x7ffff7fc3000
+	0x00007ffff7fc3300 - 0x00007ffff7fc338b is .dynstr in system-supplied DSO at 0x7ffff7fc3000
+	0x00007ffff7fc338c - 0x00007ffff7fc33a6 is .gnu.version in system-supplied DSO at 0x7ffff7fc3000
+	0x00007ffff7fc33a8 - 0x00007ffff7fc33e0 is .gnu.version_d in system-supplied DSO at 0x7ffff7fc3000
+	0x00007ffff7fc33e0 - 0x00007ffff7fc34f0 is .dynamic in system-supplied DSO at 0x7ffff7fc3000
+	0x00007ffff7fc34f0 - 0x00007ffff7fc3544 is .note in system-supplied DSO at 0x7ffff7fc3000
+	0x00007ffff7fc3544 - 0x00007ffff7fc3590 is .eh_frame_hdr in system-supplied DSO at 0x7ffff7fc3000
+	0x00007ffff7fc3590 - 0x00007ffff7fc36c0 is .eh_frame in system-supplied DSO at 0x7ffff7fc3000
+	0x00007ffff7fc36c0 - 0x00007ffff7fc3f10 is .text in system-supplied DSO at 0x7ffff7fc3000
+	0x00007ffff7fc3f10 - 0x00007ffff7fc3fe2 is .altinstructions in system-supplied DSO at 0x7ffff7fc3000
+	0x00007ffff7fc3fe2 - 0x00007ffff7fc401e is .altinstr_replacement in system-supplied DSO at 0x7ffff7fc3000
+	0x00007ffff7c00350 - 0x00007ffff7c00380 is .note.gnu.property in /lib/x86_64-linux-gnu/libc.so.6
+	0x00007ffff7c00380 - 0x00007ffff7c003a4 is .note.gnu.build-id in /lib/x86_64-linux-gnu/libc.so.6
+	0x00007ffff7c003a4 - 0x00007ffff7c003c4 is .note.ABI-tag in /lib/x86_64-linux-gnu/libc.so.6
+	0x00007ffff7c003c8 - 0x00007ffff7c04504 is .hash in /lib/x86_64-linux-gnu/libc.so.6
+	0x00007ffff7c04508 - 0x00007ffff7c095dc is .gnu.hash in /lib/x86_64-linux-gnu/libc.so.6
+	0x00007ffff7c095e0 - 0x00007ffff7c1bdc0 is .dynsym in /lib/x86_64-linux-gnu/libc.so.6
+	0x00007ffff7c1bdc0 - 0x00007ffff7c24630 is .dynstr in /lib/x86_64-linux-gnu/libc.so.6
+	0x00007ffff7c24630 - 0x00007ffff7c25ed8 is .gnu.version in /lib/x86_64-linux-gnu/libc.so.6
+	0x00007ffff7c25ed8 - 0x00007ffff7c26484 is .gnu.version_d in /lib/x86_64-linux-gnu/libc.so.6
+	0x00007ffff7c26488 - 0x00007ffff7c264c8 is .gnu.version_r in /lib/x86_64-linux-gnu/libc.so.6
+	0x00007ffff7c264c8 - 0x00007ffff7c26cd8 is .rela.dyn in /lib/x86_64-linux-gnu/libc.so.6
+	0x00007ffff7c26cd8 - 0x00007ffff7c27290 is .rela.plt in /lib/x86_64-linux-gnu/libc.so.6
+	0x00007ffff7c27290 - 0x00007ffff7c27390 is .relr.dyn in /lib/x86_64-linux-gnu/libc.so.6
+	0x00007ffff7c28000 - 0x00007ffff7c283e0 is .plt in /lib/x86_64-linux-gnu/libc.so.6
+	0x00007ffff7c283e0 - 0x00007ffff7c28400 is .plt.got in /lib/x86_64-linux-gnu/libc.so.6
+	0x00007ffff7c28400 - 0x00007ffff7c287d0 is .plt.sec in /lib/x86_64-linux-gnu/libc.so.6
+	0x00007ffff7c28800 - 0x00007ffff7dafcf9 is .text in /lib/x86_64-linux-gnu/libc.so.6
+	0x00007ffff7db0000 - 0x00007ffff7dd6720 is .rodata in /lib/x86_64-linux-gnu/libc.so.6
+	0x00007ffff7dd6720 - 0x00007ffff7dd6721 is .stapsdt.base in /lib/x86_64-linux-gnu/libc.so.6
+	0x00007ffff7dd6740 - 0x00007ffff7dd67a0 is rodata.cst32 in /lib/x86_64-linux-gnu/libc.so.6
+	0x00007ffff7dd67a0 - 0x00007ffff7dd67bc is .interp in /lib/x86_64-linux-gnu/libc.so.6
+	0x00007ffff7dd67bc - 0x00007ffff7ddde28 is .eh_frame_hdr in /lib/x86_64-linux-gnu/libc.so.6
+	0x00007ffff7ddde28 - 0x00007ffff7dfda54 is .eh_frame in /lib/x86_64-linux-gnu/libc.so.6
+	0x00007ffff7dfda54 - 0x00007ffff7dfe082 is .gcc_except_table in /lib/x86_64-linux-gnu/libc.so.6
+	0x00007ffff7dffc60 - 0x00007ffff7dffc70 is .tdata in /lib/x86_64-linux-gnu/libc.so.6
+	0x00007ffff7dffc70 - 0x00007ffff7dffce8 is .tbss in /lib/x86_64-linux-gnu/libc.so.6
+	0x00007ffff7dffc70 - 0x00007ffff7dffc80 is .init_array in /lib/x86_64-linux-gnu/libc.so.6
+	0x00007ffff7dffc80 - 0x00007ffff7e02940 is .data.rel.ro in /lib/x86_64-linux-gnu/libc.so.6
+	0x00007ffff7e02940 - 0x00007ffff7e02b80 is .dynamic in /lib/x86_64-linux-gnu/libc.so.6
+	0x00007ffff7e02b80 - 0x00007ffff7e02fe8 is .got in /lib/x86_64-linux-gnu/libc.so.6
+	0x00007ffff7e03000 - 0x00007ffff7e046c8 is .data in /lib/x86_64-linux-gnu/libc.so.6
+	0x00007ffff7e046e0 - 0x00007ffff7e11d90 is .bss in /lib/x86_64-linux-gnu/libc.so.6
