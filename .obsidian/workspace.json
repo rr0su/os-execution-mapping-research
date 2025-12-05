@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/weekly/week2/day3.md",
+                "file": "notes/week2/day4_notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "day3"
+              "title": "day4_notes"
             }
           }
         ]
@@ -185,22 +185,24 @@
   },
   "active": "661cf5e9873b2c71",
   "lastOpenFiles": [
-    "docs/weekly/week2/day1.md",
-    "docs/weekly/week2/day3.md",
-    "docs/weekly/week2/day2.md",
+    "src/addr.c",
+    "experiments/sleeper.bin",
+    "experiments/memory-mapping/addr",
+    "experiments/memory-mapping/function_addrs.txt",
+    "experiments/memory-mapping/heap.txt",
+    "experiments/memory-mapping/stack.txt",
+    "experiments/memory-mapping/addr_raw_output.txt",
+    "experiments/addr_raw_output.txt",
+    "experiments/memory-mapping/addr.c",
+    "addr_raw_output.txt",
+    "addr",
     "notes/week2/day3_notes.md",
-    "experiments/memory-mapping/gdb-outputs/backtrace_hello.txt",
-    "backtrace_hello.txt",
-    "experiments/memory-mapping/gdb-outputs/info_files_hello.txt",
-    "info_files_hello.txt",
-    "experiments/memory-mapping/gdb-outputs/vmmap_hello.txt",
-    "vmmap_hello.txt",
+    "notes/week2/day4_notes.md",
+    "docs/weekly/week2/day3.md",
+    "docs/weekly/week2/day1.md",
+    "docs/weekly/week2/day2.md",
     "notes/week2/day2_notes.md",
     "diagrams/week2/day2.png",
-    "sleeper.bin",
-    "experiments/memory-mapping/proc-maps/sleeper_proc_maps.txt",
-    "src/sleeper.c",
-    "experiments/memory-mapping/proc-maps/bash_proc_maps.txt",
     "notes/week2/day1_notes.md"
   ]
 }

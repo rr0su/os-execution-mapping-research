@@ -1,0 +1,40 @@
+Global variable address: 0x404030
+Function address: 0x401196
+Global variable address: 0x404030
+Function address: 0x401196
+Global variable address: 0x404030
+Function address: 0x401196
+Global variable address: 0x404030
+Function address: 0x401196
+Global variable address: 0x404030
+Function address: 0x401196
+Global variable address: 0x404030
+Function address: 0x401196
+Global variable address: 0x404030
+Function address: 0x401196
+Global variable address: 0x404030
+Function address: 0x401196
+Global variable address: 0x404030
+Function address: 0x401196
+Global variable address: 0x404030
+Function address: 0x401196
+Global variable address: 0x404030
+Function address: 0x401196
+Global variable address: 0x404030
+Function address: 0x401196
+Global variable address: 0x404030
+Function address: 0x401196
+Global variable address: 0x404030
+Function address: 0x401196
+Global variable address: 0x404030
+Function address: 0x401196
+Global variable address: 0x404030
+Function address: 0x401196
+Global variable address: 0x404030
+Function address: 0x401196
+Global variable address: 0x404030
+Function address: 0x401196
+Global variable address: 0x404030
+Function address: 0x401196
+Global variable address: 0x404030
+Function address: 0x401196
