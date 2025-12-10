@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/week2/day4_notes.md",
+                "file": "notes/week2/day1_notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "day4_notes"
+              "title": "day1_notes"
             }
           }
         ]
@@ -185,6 +185,7 @@
   },
   "active": "661cf5e9873b2c71",
   "lastOpenFiles": [
+    "notes/week2/day4_notes.md",
     "src/addr.c",
     "experiments/sleeper.bin",
     "experiments/memory-mapping/addr",
@@ -195,9 +196,7 @@
     "experiments/addr_raw_output.txt",
     "experiments/memory-mapping/addr.c",
     "addr_raw_output.txt",
-    "addr",
     "notes/week2/day3_notes.md",
-    "notes/week2/day4_notes.md",
     "docs/weekly/week2/day3.md",
     "docs/weekly/week2/day1.md",
     "docs/weekly/week2/day2.md",

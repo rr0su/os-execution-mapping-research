@@ -1,0 +1,60 @@
+===== RUN START =====
+Global variable address: 0x404030
+Main local address: 0x7fffdee91844
+Heap allocation address: 0x377042a0
+Function address: 0x401196
+Local variable address: 0x7fffdee9182c
+===== RUN START =====
+Global variable address: 0x404030
+Main local address: 0x7ffe235ac9f4
+Heap allocation address: 0x79e32a0
+Function address: 0x401196
+Local variable address: 0x7ffe235ac9dc
+===== RUN START =====
+Global variable address: 0x404030
+Main local address: 0x7ffe4cdaeeb4
+Heap allocation address: 0x23a672a0
+Function address: 0x401196
+Local variable address: 0x7ffe4cdaee9c
+===== RUN START =====
+Global variable address: 0x404030
+Main local address: 0x7ffdc099c434
+Heap allocation address: 0xffae2a0
+Function address: 0x401196
+Local variable address: 0x7ffdc099c41c
+===== RUN START =====
+Global variable address: 0x404030
+Main local address: 0x7ffebc022944
+Heap allocation address: 0x34e2b2a0
+Function address: 0x401196
+Local variable address: 0x7ffebc02292c
+===== RUN START =====
+Global variable address: 0x404030
+Main local address: 0x7ffdc0b596a4
+Heap allocation address: 0x238552a0
+Function address: 0x401196
+Local variable address: 0x7ffdc0b5968c
+===== RUN START =====
+Global variable address: 0x404030
+Main local address: 0x7fffdf0ecc14
+Heap allocation address: 0x39f122a0
+Function address: 0x401196
+Local variable address: 0x7fffdf0ecbfc
+===== RUN START =====
+Global variable address: 0x404030
+Main local address: 0x7ffcde132164
+Heap allocation address: 0x17c0c2a0
+Function address: 0x401196
+Local variable address: 0x7ffcde13214c
+===== RUN START =====
+Global variable address: 0x404030
+Main local address: 0x7ffdbe4a7c54
+Heap allocation address: 0x137172a0
+Function address: 0x401196
+Local variable address: 0x7ffdbe4a7c3c
+===== RUN START =====
+Global variable address: 0x404030
+Main local address: 0x7fff4f767a84
+Heap allocation address: 0x3ef382a0
+Function address: 0x401196
+Local variable address: 0x7fff4f767a6c
