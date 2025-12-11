@@ -1,0 +1,22 @@
+00400000-00401000 r--p 00000000 00:43 5629499534835848                   /mnt/c/Users/mtech121/Desktop/os-execution-mapping-research/experiments/memory-mapping/day6/hello_nopie
+00401000-00402000 r-xp 00001000 00:43 5629499534835848                   /mnt/c/Users/mtech121/Desktop/os-execution-mapping-research/experiments/memory-mapping/day6/hello_nopie
+00402000-00403000 r--p 00002000 00:43 5629499534835848                   /mnt/c/Users/mtech121/Desktop/os-execution-mapping-research/experiments/memory-mapping/day6/hello_nopie
+00403000-00404000 r--p 00002000 00:43 5629499534835848                   /mnt/c/Users/mtech121/Desktop/os-execution-mapping-research/experiments/memory-mapping/day6/hello_nopie
+00404000-00405000 rw-p 00003000 00:43 5629499534835848                   /mnt/c/Users/mtech121/Desktop/os-execution-mapping-research/experiments/memory-mapping/day6/hello_nopie
+370b0000-370d1000 rw-p 00000000 00:00 0                                  [heap]
+70ce87200000-70ce87228000 r--p 00000000 08:30 39744                      /usr/lib/x86_64-linux-gnu/libc.so.6
+70ce87228000-70ce873b0000 r-xp 00028000 08:30 39744                      /usr/lib/x86_64-linux-gnu/libc.so.6
+70ce873b0000-70ce873ff000 r--p 001b0000 08:30 39744                      /usr/lib/x86_64-linux-gnu/libc.so.6
+70ce873ff000-70ce87403000 r--p 001fe000 08:30 39744                      /usr/lib/x86_64-linux-gnu/libc.so.6
+70ce87403000-70ce87405000 rw-p 00202000 08:30 39744                      /usr/lib/x86_64-linux-gnu/libc.so.6
+70ce87405000-70ce87412000 rw-p 00000000 00:00 0 
+70ce875f1000-70ce875f4000 rw-p 00000000 00:00 0 
+70ce875fb000-70ce875fd000 rw-p 00000000 00:00 0 
+70ce875fd000-70ce875fe000 r--p 00000000 08:30 39741                      /usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2
+70ce875fe000-70ce87629000 r-xp 00001000 08:30 39741                      /usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2
+70ce87629000-70ce87633000 r--p 0002c000 08:30 39741                      /usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2
+70ce87633000-70ce87635000 r--p 00036000 08:30 39741                      /usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2
+70ce87635000-70ce87637000 rw-p 00038000 08:30 39741                      /usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2
+7fff16a67000-7fff16a89000 rw-p 00000000 00:00 0                          [stack]
+7fff16b20000-7fff16b24000 r--p 00000000 00:00 0                          [vvar]
+7fff16b24000-7fff16b26000 r-xp 00000000 00:00 0                          [vdso]
